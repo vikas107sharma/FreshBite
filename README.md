@@ -66,6 +66,7 @@
 ![Restaurant Page](https://github.com/vikas107sharma/Food-app-resources/blob/main/Aspose.Words.a2e29c53-7a9e-452d-851d-9f62ab465ad8.011.png)
 ![Restaurant Page](https://github.com/vikas107sharma/Food-app-resources/blob/main/Aspose.Words.a2e29c53-7a9e-452d-851d-9f62ab465ad8.012.png)
 
+<!--
 #### Checkout Page
 ![Checkout Page](https://github.com/vikas107sharma/Food-app-resources/blob/main/Aspose.Words.a2e29c53-7a9e-452d-851d-9f62ab465ad8.013.png)
 ![Checkout Page](https://github.com/vikas107sharma/Food-app-resources/blob/main/Aspose.Words.a2e29c53-7a9e-452d-851d-9f62ab465ad8.014.png)
@@ -73,6 +74,7 @@
 
 #### Order Details
 ![Order Details](https://github.com/vikas107sharma/Food-app-resources/blob/main/Aspose.Words.a2e29c53-7a9e-452d-851d-9f62ab465ad8.016.png)
+-->
 
 #### Restaurant Owner can change order details
 ![Restaurant Owner can change order details](https://github.com/vikas107sharma/Food-app-resources/blob/main/Aspose.Words.a2e29c53-7a9e-452d-851d-9f62ab465ad8.017.png)
